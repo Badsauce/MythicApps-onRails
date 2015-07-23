@@ -6,7 +6,7 @@ set :repo_url, 'https://github.com/MythicApps/MythicApps-onRails'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
-set :branch, 'master'
+set :branch, 'atomaka/feature/capistrano-stages'
 
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, '/home/app/mythicapps'
